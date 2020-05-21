@@ -118,7 +118,6 @@ merge opentutorials into current branch
 우클릭해서 resolve conflict에서 설정하거나
 스스로 해결한 후 mark resolved를 선택해서 해결했어! 라고 하기
 
-
 - Conflict 3 merge way
 2개의 브랜치를 비교한거는 2 way merge라고 한다.
 
