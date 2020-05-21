@@ -22,8 +22,7 @@ m5로 가고 싶으면 m5에서 우측버튼 -> reset(이 커밋까지 초기화
 
 버전 revert(되돌리기)
 revert 5
-
-
+revert 6
 
 
 
