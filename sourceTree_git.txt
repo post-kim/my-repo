@@ -69,7 +69,9 @@ https주소를 복붙하기
 
 - push하기
 소스트리에서 push를 클릭한다.
-backup!
+backup! 하면
+이전처럼 commit을 진행한다.
+그리고 push를 클릭한다.
 
 
 
