@@ -49,6 +49,60 @@ master를 더블클릭해야한다!!!!!!!!!!!!
 
 외부 프로그램을 이용(ex kdiff)해서 비교를 하는 것도 가능하다.
 
+- git3(Backup Sourcetree)
+
+Local Repository -> Remote Repository : push
+Local Repository <- Remote Repository : pull
+
+local repository <- Remote Repository : clone(전체복사) 생처음부터
+
+git hosting
+
+github 사용
+여기서는 https를 이용해서 연결할 것이다.
+
+sourceTree에서 repository -> Add Remote 선택하기
+https주소를 복붙하기
+
+주소가 복잡해서 일일히 기억하기가 힘드니까
+원격 이름을 붙이는데, 이 때 디폴트는 origin으로 하기로 약속했다.
+
+- push하기
+소스트리에서 push를 클릭한다.
+backup!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
